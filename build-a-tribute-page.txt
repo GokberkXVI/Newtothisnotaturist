@@ -1,0 +1,109 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html>
+  <html lang="en">
+    <meta charset="utf-8">
+    <meta name="viewport content="width=device-width, initial-scale=1.0">
+    <head>
+    <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+      <main id="main">
+        <h1 id="title">Seyfi Dursunoglu aka Grumpy Virgin</h1>
+        <p> The First Drag Queen of Turkey </p>
+        <figure id="img-div">
+          <img id="image" src="https://media-cdn.t24.com.tr/media/library/2020/10/1602826769537-4-g-xw-0-pq-u-fr-k-cm-80-oflt-09-ae-aer-dl-0-j-c-2-qa-syxd-2-h.jpeg" alt="seyfi dursunoglu and his persona grumpy virgin">
+          <figcaption id="img-caption"> <i> "Seyfi Dursunoglu with his persona Grumpy Virgin" </i> </figcaption>
+          </figure>
+    <section id="tribute-info">
+      <h3 =id"headline"> Summary of our beloved Drag Queen's life </h3>     
+      <ul>
+        <li> <strong> 1932 </strong> - Born in Trabzon, Turkey </li>
+        <li> <strong> 1938 </strong> - Came to Istanbul with parents and learned how to sew </li>
+        <li><strong> 1940 </strong> - Admiring and inspried by German actress <i> Marlene Dietrich </i> </li>
+        <li><strong> 1947</strong> - He went to military <i>Haydarpasa Navy High School</i> by the force of his parents but left after 2 years later </li>
+        <li><strong> 1951 </strong> - After high school went to <i> Istanbul University </i>  as  study English Philology. While he was studying his father bunkrupted and he had to drop the college and went to mandatory </li>
+        <li><strong> 1952 </strong> - After military service he started to work in Social Security for 18 years </li>
+        <li><strong> 1970 </strong> - He started to work in small clubs as <i> Grumpy Virgin </i> </li>
+        <li><strong> 1971 </strong> - He started to get the fame he deserves, and recieving offers from big clubs and also released only one album in that year called <i>Grumpy Virgin 1.</i> </li>
+        <li> <strong> 1990's </strong> - He hosted his own shows with some real auidence and celebrities. People loved his personality such as repartee and rudeness </li>
+        <li><strong> 2000's </strong> - He is loved in Turkey and hosted many shows as <i> PopStar Turkey, Will You Dance With Me?, New Year Special Show </i> </li>
+        <li><strong> 2007 </strong> - By the Radio & Tv Supreme Council and bigot regime cencored his shows. Thinking his identity was a crime.  </li>
+        <li> <strong> 2012 </strong> - After regime and so-called conservative oppression he perfomed as <i> Grumpy Virgin </i> in a TV show last time </li>
+        <li><strong> 2017 </strong> - Years later he showed a new year show as Grumpy Virgin </li>
+        <li><strong> 2020 </strong> - He was suffering from COPD. After 15 days of treatment of pneumonia he sadly passed away in Istanbul </li>
+        <li><strong> 2020 </strong> - As he stated in his will he donated his house and 2 Million of his saving to Association for the Support of Contemporary Life NGO. </li>
+</ul>
+<h4> Drag is not a CRIME! Donate to this website and for more info: <a id="tribute-link" href="https://action.aclu.org/give/support-drag-defense-fund" target="_blank"> Drag Defence Fund </a> </h4>
+</section>
+</body>
+</html>
+          
+
+** end of undefined **
+
+** start of undefined **
+
+html {
+  background-image: linear-gradient(#45ada8, #85ff);
+}
+h1 {
+  background-image: url(https://www.fossil.com/on/demandware.static/-/Library-Sites-FossilSharedLibrary/default/dw780dd5bb/2023/SU23/set_05222023_global/pride_lp/Hero_1_bg_image_LP_mobile.jpg) ;
+background-size: auto;
+border-radius: 30px;
+color: white;
+text-align: center;
+font-family: garamond;
+border: 2px solid 
+}
+p {
+  color: white;
+  text-align: center;
+  font-family: ariel;
+  background-image: linear-gradient(#45ada8, #85ff);
+  border-radius: 50px;
+  border: 1px solid 
+}
+img {
+  display: block;
+  max-width: 100%;
+  border-radius: 10px;
+  height: auto;
+}
+figcaption {
+  text-align: center;
+  padding-top: 13px;
+  color: white; 
+}
+section {
+  text-align: left;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: #fff
+}
+h3 {
+  text-align: center;
+  background-image: linear-gradient(#45ada8, #85ff);
+  border-radius: 50px;
+  border: 3px solid
+}
+li {
+  padding-top: 5px;
+  padding-bottom: 5px
+}
+h4 {
+  text-align: center;
+  background-image: linear-gradient(#45ada8, #85ff) ;
+  border-radius: 50px;
+  border: 1px solid
+}
+a
+{
+    color: #ffffff;
+}
+
+** end of undefined **
+
